@@ -25,3 +25,9 @@ Note: Replacing "source" with a single dot saves a few characters, and the short
     . build/envsetup.sh
     brunch <device>
 
+Credits
+---------------
+Team Oct-OS for the base..
+AOSIP 
+Pure Nexus Project
+CyanogenMod for Hals..
