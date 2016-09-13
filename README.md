@@ -11,7 +11,8 @@ familiar with [Git and Repo](http://source.android.com/source/version-control.ht
 Initialize the Repositories
 ---------------------------
 
-    repo init -u https://github.com/Cosmic-OS/android_manifest.git -b COS-7.0 && repo sync
+    repo init -u https://github.com/Cosmic-OS/android_manifest.git -b COS-7.0
+    repo sync -c --no-tags -f --force-sync -j4
 
 This will initialize the new repository and begin the initial sync.  This will take a while!
 
