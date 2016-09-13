@@ -28,7 +28,9 @@ Note: Replacing "source" with a single dot saves a few characters, and the short
 
 Credits
 ---------------
-Team Oct-OS for the base..
+AOSP-OMS for main base..
+
+Team Oct-OS for the vendor base..
 
 AOSIP 
 
