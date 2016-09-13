@@ -28,12 +28,13 @@ Note: Replacing "source" with a single dot saves a few characters, and the short
 
 Credits
 ---------------
-AOSP-OMS for main base..
 
-Team Oct-OS for the vendor base..
+     AOSP-OMS for main base..
 
-AOSIP 
+     Team Oct-OS for the vendor base..
 
-Pure Nexus Project
+     AOSIP 
 
-CyanogenMod for Hals..
+     Pure Nexus Project
+
+    CyanogenMod for Hals..
