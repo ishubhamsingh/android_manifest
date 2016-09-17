@@ -29,12 +29,8 @@ Note: Replacing "source" with a single dot saves a few characters, and the short
 Credits
 ---------------
 
-     AOSP-OMS for main base..
+     Team Oct-OS for the Base..
 
-     Team Oct-OS for the vendor base..
+     Dirty Unicorns
 
-     AOSIP 
-
-     Pure Nexus Project
-
-    CyanogenMod for Hals..
+     CyanogenMod for Hals..
